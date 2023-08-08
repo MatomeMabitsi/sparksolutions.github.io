@@ -1057,9 +1057,16 @@ Recent Listing
 }
 
 .recent-listing .item .right-content ul.info li img {
-  max-width: 30px;
+  max-width: 100px;
   margin-right: 15px;
   display: inline;
+}
+
+.aboutlogo{
+  width: 350px;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .recent-listing .item .right-content .main-white-button {
