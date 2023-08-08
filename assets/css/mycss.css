@@ -235,15 +235,15 @@ body {
 
 .header-area .main-nav a.logo {
   background-image: url(../images/white-logo.png);
-  width: 166px;
-  height: 58px;
+  width: 46px;
+  height: 46px;
   display: inline-block;
   margin-top: 20px;
 }
 
 .background-header .main-nav a.logo {
   background-image: url(../images/black-logo.png);
-  width: 164px;
+  width: 4px;
   height: 58px;
   display: inline-block;
   margin-top: 10px;
@@ -564,7 +564,7 @@ body {
     margin-top: 80px !important;
   }
   .header-area .main-nav .logo {
-    color: #1e1e1e;
+    color: #ff0202;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
