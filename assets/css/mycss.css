@@ -172,6 +172,7 @@ body {
 }
 
 .main-white-button a i {
+  display: none;
   margin-right: 10px;
   width: 22px;
   height: 22px;
